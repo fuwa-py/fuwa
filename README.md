@@ -1,4 +1,4 @@
-![Icon](https://raw.githubusercontent.com/fuwa-py/fuwa/.github/icon.png)
+![Icon](https://raw.githubusercontent.com/fuwa-py/fuwa/main/.github/icon.png)
 
 # Fuwa
 
