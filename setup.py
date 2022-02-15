@@ -15,7 +15,8 @@ if not version:
     raise RuntimeError("No version set")
 
 EXTRAS_REQUIRE = {
-    "gateway": "fuwa-gateway"
+    "gateway": "fuwa-gateway",
+    "http": "fuwa-http"
 }
 
 setup(
