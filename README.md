@@ -1,10 +1,25 @@
-![Icon](https://raw.githubusercontent.com/fuwa-py/fuwa/main/.github/icon.png)
+<h1 align="center">
+<sub>
+    <img src="https://raw.githubusercontent.com/fuwa-py/fuwa/main/.github/icon.png" height="36">
+</sub>
+&nbsp;
+Fuwa
+</h1>
+<p align="center">
+<sup>
+A set of scalable and powerful python packages built for the Discord API, that heavily encourage pragmatic design.
+</sup>
+<br>
+<sup>
+    <a href="">Read the documentation.</a>
+</sup>
+</p>
 
-# Fuwa
+## Information
 
-Fuwa is a set of scalable and powerful python packages built for the Discord API, inspired heavily by twilight-rs.
+Fuwa is a set of scalable and powerful python packages built for the Discord API, that heavily encourage pragmatic design, inspired heavily by twilight-rs.
 
-The eco-system of packages will soon include packages for `http`, `OAuth`, a slash `Command Framework` and much more.
+The eco-system of packages will soon include packages for `http`, `OAuth`, an application `Command Framework` and much more.
 
 ## Installation
 
